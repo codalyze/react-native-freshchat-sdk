@@ -38,5 +38,5 @@ buildscript {
 dependencies {
     compile "com.facebook.react:react-native:+"
     compile 'com.google.android.gms:play-services-gcm:11.+'
-    compile 'com.github.freshdesk:freshchat-android:2.4.0'
+    compile 'com.github.freshdesk:freshchat-android:3.3.0'
 }
